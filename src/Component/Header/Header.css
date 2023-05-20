@@ -1,0 +1,11 @@
+.navbar a{
+  text-decoration: none;
+  margin-right: 15px;
+}
+.flex{
+  display: flex;
+justify-content: space-between;
+}
+.navbar p{
+  margin-top: 0px;
+}
