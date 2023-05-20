@@ -7,11 +7,23 @@ import {
   RouterProvider,
 } from "react-router-dom";
 import Layout from './Component/Layout/Layout.jsx';
+import Statics from './Component/Statics/Statics.jsx';
+import Home from './Component/Home/Home.jsx';
 
 const router = createBrowserRouter([
   {
     path:'/',
-    element:<Layout></Layout>
+    element:<Layout></Layout>,
+    children:[
+      {
+        path:'statics',
+        element:<Statics></Statics>
+      },
+      {
+        path:'/',
+        element:<Home></Home>
+      }
+    ]
   }
 ])
 
