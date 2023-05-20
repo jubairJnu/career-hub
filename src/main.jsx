@@ -9,6 +9,8 @@ import {
 import Layout from './Component/Layout/Layout.jsx';
 import Statics from './Component/Statics/Statics.jsx';
 import Home from './Component/Home/Home.jsx';
+import Appliedjob from './Component/AppliedJob/Appliedjob.jsx';
+import Blog from './Component/Blog/Blog.jsx';
 
 const router = createBrowserRouter([
   {
@@ -21,7 +23,16 @@ const router = createBrowserRouter([
       },
       {
         path:'/',
-        element:<Home></Home>
+        element:<Home></Home>,
+        loader: () => fetch('jobs.json')
+      },
+      {
+        path:'applied',
+        element:<Appliedjob></Appliedjob>
+      },
+      {
+        path:'blog',
+        element:<Blog></Blog>
       }
     ]
   }

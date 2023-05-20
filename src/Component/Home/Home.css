@@ -3,5 +3,18 @@
 width: auto;
 }
 .text{
-  width: 500px;
+  width: 450px;
+}
+.job-catagory{
+ 
+  margin: 100px;
+}
+.text-center{
+  text-align: center;
+}
+.job-list{
+  margin-top: 20px;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 25px;
 }

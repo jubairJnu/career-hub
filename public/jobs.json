@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "job": "Software Engineer",
+    "available": 10
+  },
+  {
+    "id": 2,
+    "name": "Jane Doe",
+    "job": "Doctor",
+    "available": 5
+  },
+  {
+    "id": 3,
+    "name": "Peter Smith",
+    "job": "Teacher",
+    "available": 20
+  },
+  
+  {
+    "id": 4,
+    "name": "Michael Brown",
+    "job": "Engineer",
+    "available": 25
+  }
+]
