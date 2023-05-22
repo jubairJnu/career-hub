@@ -2,9 +2,12 @@ import React from 'react';
 import './Home.css'
 import { useLoaderData } from 'react-router-dom';
 import JobCatagory from '../JobCatagory/JobCatagory';
+import FeaturesJobs from '../FeaturesJob/FeaturesJobs';
 const Home = () => {
   const jobs = useLoaderData();
-  
+
+
+
   return (
     <div>
       <main className='container flex main'>
@@ -17,11 +20,11 @@ const Home = () => {
         </div>
 
         <div className="image">
-          <img src="/src/Component/image/main image.jpg" alt="" />
+          <img src="/src/assets/image/main image.jpg" alt="" />
         </div>
       </main>
 
-    {/* // job catargory section */}
+      {/* // job catargory section */}
 
       <section className='job-catagory text-center'>
         <h2>Job Category List</h2>
@@ -30,15 +33,21 @@ const Home = () => {
         <div className="job-list">
           {
             jobs.map(work => <JobCatagory
-            key={work.id}
-            work={work}
+              key={work.id}
+              work={work}
             ></JobCatagory>)
           }
         </div>
-     
+
       </section>
 
+      {/* features jobs */}
 
+      <section className='featuesJobs text-center'>
+        <FeaturesJobs></FeaturesJobs>
+      </section>
+
+      {/* home div closssing */}
     </div>
   );
 };

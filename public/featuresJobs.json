@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "companyLogo": "google_logo.png",
+    "jobTitle": "Software Engineer",
+    "companyName": "Google",
+    "remoteOrOnsite": "Remote",
+    "location": "Mountain View, CA",
+    "fulltimeOrPartTime": "Full-time",
+    "salary": "$120,000 - $150,000",
+    "jobDescription": "Develop and maintain software systems...",
+    "jobResponsibility": "Write high-quality code...",
+    "educationalRequirements": "Bachelor's degree in Computer Science...",
+    "experiences": "2+ years of software engineering experience...",
+    "contactInformation": {
+      "phone": "555-123-4567",
+      "email": "jobs@google.com"
+    }
+  },
+  {
+    "id": 2,
+    "companyLogo": "twitter_logo.png",
+    "jobTitle": "Data Scientist",
+    "companyName": "Twitter",
+    "remoteOrOnsite": "Onsite",
+    "location": "San Francisco, CA",
+    "fulltimeOrPartTime": "Full-time",
+    "salary": "$110,000 - $140,000",
+    "jobDescription": "Analyze and interpret complex data...",
+    "jobResponsibility": "Develop statistical models...",
+    "educationalRequirements": "Master's degree in Statistics or related field...",
+    "experiences": "3+ years of experience in data analysis...",
+    "contactInformation": {
+      "phone": "555-987-6543",
+      "email": "careers@twitter.com"
+    }
+  },
+  {
+    "id": 3,
+    "companyLogo": "tesla_logo.png",
+    "jobTitle": "Software Developer",
+    "companyName": "Tesla",
+    "remoteOrOnsite": "Remote",
+    "location": "Palo Alto, CA",
+    "fulltimeOrPartTime": "Full-time",
+    "salary": "$100,000 - $130,000",
+    "jobDescription": "Design and develop software applications...",
+    "jobResponsibility": "Collaborate with cross-functional teams...",
+    "educationalRequirements": "Bachelor's degree in Computer Science or related field...",
+    "experiences": "2+ years of software development experience...",
+    "contactInformation": {
+      "phone": "555-789-0123",
+      "email": "careers@tesla.com"
+    }
+  },
+  {
+    "id": 4,
+    "companyLogo": "microsoft_logo.png",
+    "jobTitle": "Cloud Solutions Architect",
+    "companyName": "Microsoft",
+    "remoteOrOnsite": "Remote",
+    "location": "Redmond, WA",
+    "fulltimeOrPartTime": "Full-time",
+    "salary": "$130,000 - $160,000",
+    "jobDescription": "Design and implement cloud solutions...",
+    "jobResponsibility": "Collaborate with customers to understand their needs...",
+    "educationalRequirements": "Bachelor's degree in Computer Science or related field...",
+    "experiences": "5+ years of experience in cloud architecture...",
+    "contactInformation": {
+      "phone": "555-111-2222",
+      "email": "careers@microsoft.com"
+    }
+  },
+  {
+    "id": 5,
+    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa3wN_9BDCQ-vkmynenX9wd8aGmOSNZZZURl9MXP4iKQ&s",
+    "jobTitle": "Data Engineer",
+    "companyName": "Amazon",
+    "remoteOrOnsite": "Remote",
+    "location": "Seattle, WA",
+    "fulltimeOrPartTime": "Full-time",
+    "salary": "$100,000 - $130,000",
+    "jobDescription": "Develop data pipelines and ETL processes...",
+    "jobResponsibility": "Build scalable and efficient data systems...",
+    "educationalRequirements": "Bachelor's degree in Computer Science or related field...",
+    "experiences": "3+ years of experience in data engineering...",
+    "contactInformation": {
+      "phone": "555-333-4444",
+      "email": "jobs@amazon.com"
+    }
+  },
+  {
+    "id": 6,
+    "companyLogo": "apple_logo.png",
+    "jobTitle": "iOS Developer",
+    "companyName": "Apple",
+    "remoteOrOnsite": "Onsite",
+    "location": "Cupertino, CA",
+    "fulltimeOrPartTime": "Full-time",
+    "salary": "$120,000 - $150,000",
+    "jobDescription": "Design and develop iOS applications...",
+    "jobResponsibility": "Collaborate with cross-functional teams...",
+    "educationalRequirements": "Bachelor's degree in Computer Science or related field...",
+    "experiences": "2+ years of experience in iOS development...",
+    "contactInformation": {
+      "phone": "555-555-6666",
+      "email": "careers@apple.com"
+    }
+  }
+]
