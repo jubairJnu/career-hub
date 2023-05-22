@@ -4,21 +4,21 @@
     "name": "John Doe",
     "job": "Software Engineer",
     "available": 10,
-    "img":"/src/Component/image/software.png"
+    "picture":"/src/assets/image/software.png"
   },
   {
     "id": 2,
     "name": "Jane Doe",
     "job": "Doctor",
     "available": 5,
-    "img":"/src/Component/image/doctor.png"
+    "picture":"https://i.ibb.co/Rjt60vJ/doctor.png"
   },
   {
     "id": 3,
     "name": "Peter Smith",
     "job": "Teacher",
     "available": 20,
-    "img":"/src/Component/image/teacher.png"
+    "picture":"https://i.ibb.co/b3wg3bk/teacher1.png"
   },
   
   {
@@ -26,6 +26,6 @@
     "name": "Michael Brown",
     "job": "Engineer",
     "available": 25,
-    "img":"/src/Component/image/engineer.png"
+    "picture":"https://i.ibb.co/pdTFCB4/engineer.png" 
   }
 ]

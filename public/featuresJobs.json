@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "companyLogo": "google_logo.png",
+    "companyLogo": "https://i.ibb.co/wJjHSJQ/google.png",
     "jobTitle": "Software Engineer",
     "companyName": "Google",
     "remoteOrOnsite": "Remote",
@@ -19,7 +19,7 @@
   },
   {
     "id": 2,
-    "companyLogo": "twitter_logo.png",
+    "companyLogo": "https://i.ibb.co/YDSRtKT/twitter.png",
     "jobTitle": "Data Scientist",
     "companyName": "Twitter",
     "remoteOrOnsite": "Onsite",
@@ -37,7 +37,7 @@
   },
   {
     "id": 3,
-    "companyLogo": "tesla_logo.png",
+    "companyLogo": "https://i.ibb.co/Hq7K464/tesla.png",
     "jobTitle": "Software Developer",
     "companyName": "Tesla",
     "remoteOrOnsite": "Remote",
@@ -55,7 +55,7 @@
   },
   {
     "id": 4,
-    "companyLogo": "microsoft_logo.png",
+    "companyLogo": "https://i.ibb.co/5K2c0CD/microsft.png",
     "jobTitle": "Cloud Solutions Architect",
     "companyName": "Microsoft",
     "remoteOrOnsite": "Remote",
@@ -73,7 +73,7 @@
   },
   {
     "id": 5,
-    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa3wN_9BDCQ-vkmynenX9wd8aGmOSNZZZURl9MXP4iKQ&s",
+    "companyLogo": "https://i.ibb.co/rfmcF08/amazon.png",
     "jobTitle": "Data Engineer",
     "companyName": "Amazon",
     "remoteOrOnsite": "Remote",
@@ -91,7 +91,7 @@
   },
   {
     "id": 6,
-    "companyLogo": "apple_logo.png",
+    "companyLogo": "https://i.ibb.co/PZRVnKQ/apple1.png",
     "jobTitle": "iOS Developer",
     "companyName": "Apple",
     "remoteOrOnsite": "Onsite",
