@@ -46,7 +46,7 @@ const Home = () => {
       <section className='featuesJobs text-center'>
         <FeaturesJobs></FeaturesJobs>
       </section>
-
+<button className='btn-all-job '>See All Job</button>
       {/* home div closssing */}
     </div>
   );

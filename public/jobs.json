@@ -4,7 +4,8 @@
     "name": "John Doe",
     "job": "Software Engineer",
     "available": 10,
-    "picture":"/src/assets/image/software.png"
+    "picture":"https://i.ibb.co/GxKdqs9/software.png"
+    
   },
   {
     "id": 2,

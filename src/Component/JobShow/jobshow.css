@@ -3,3 +3,31 @@
   border: 1px solid tomato;
   
 }
+.btn-view{
+margin-top: 15px;
+margin-bottom: 15px;
+  background: linear-gradient(90deg, #7E90FE 0%, #9873FF 100%);
+border-radius: 8px;
+border: none;
+padding: 8px;
+color:white;
+}
+
+.jobshowing img{
+  height: 45px;
+  width: auto;
+}
+.jobshowing h5{
+  margin: 0px;
+}
+.job-type{
+  border:1px solid purple ;
+  padding: 4px;
+  margin-right: 5px;
+  color:  #9873FF ;
+  border-radius: 5px;
+}
+.sign{
+  display: flex;
+  justify-content: space-evenly;
+}
